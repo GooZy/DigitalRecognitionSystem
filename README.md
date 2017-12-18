@@ -1,0 +1,2 @@
+# DigitalRecognitionSystem
+好早前用MFC和VS做的数字识别系统
